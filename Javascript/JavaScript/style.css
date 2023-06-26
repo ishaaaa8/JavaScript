@@ -1,0 +1,13 @@
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#countLabel{
+    text-align: center;
+
+    font-size: 50px;
+}
